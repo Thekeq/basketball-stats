@@ -12,6 +12,10 @@ A simple Telegram bot to track your basketball shot performance (three-pointers 
 - View average accuracy: `/avg_stats`
 - Switch language: `/language` (English / Russian)
 
+## Example graph
+
+![Screenshot](example.jpg)
+
 ## Installation
 
 1. Clone the repository
