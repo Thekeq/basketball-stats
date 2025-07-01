@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# matplotlib cache and images (если не хочешь хранить временные файлы)
+*.png
+
+# Virtual environment
+venv/
+.env/
